@@ -14,15 +14,10 @@
     <script type="text/javascript" src="bower_components/angular-sanitize/angular-sanitize.js"></script>
     <script type="text/javascript" src="bower_components/moment/moment.js"></script>
     <script type="text/javascript" src="javascripts/angular-weather-directive.min.js"></script>
-
     <script type="text/javascript">
-    /**
-    * myApp Module
-    *
-    * Description
-    */
-    angular.module('myApp', ["weatherModule", "ngSanitize"]);
+      angular.module('myApp', ["weatherModule", "ngSanitize"]);
     </script>
+
     <title>Angular-sh-weather</title>
   </head>
 
@@ -47,14 +42,88 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <h3>
-<a name="angular-weather-directive" class="anchor" href="#angular-weather-directive"><span class="octicon octicon-link"></span></a>Angular Weather Directive</h3>
+            <a
+              name="angular-weather-directive"
+              class="anchor"
+              href="#angular-weather-directive">
+              <span class="octicon octicon-link"></span>
+            </a>
+            Angular Weather Directive
+          </h3>
 
 <p>This is a directive meant to make displaying the weather or a forecast for a given region relatively trivial.  There are a few requirements to making this work but the usage is simple.</p>
+
+<a name="usage" class="anchor" href="#usage"><span class="octicon octicon-link"></span></a>Usage</h3>
+<p>This directive is dependent on moment.js, ngSanitize/angular-sanitize.js, and weather-icons or Google's static weather images.</p>
+
+<p>Weather Icons used from this project: <a href="https://github.com/erikflowers/weather-icons">https://github.com/erikflowers/weather-icons</a></p>
+
+<p>Bower install:<pre><code>bower install shusain/angular-sh-weather#~0.0.0 --save</code></pre></p>
+
+<p>Be sure the dependencies above are installed and loaded properly. Then load the weather directive in your script block:</p>
+
+<pre><code>&lt;script type="text/javascript" src="bower_components/angular-weather-directive/angular-weather-directive.min.js"&gt;&lt;/script&gt;</code></pre>
+
+<p>Although not strictly required the directive makes use of Bootstrap for the classes used on the divs doing the layout.</p>
+
+<p>A full block in the head of a file using this component would look like:
+<pre><code>
+  &lt;link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.css"/&gt;
+  &lt;link rel="stylesheet" type="text/css" href="bower_components/weather-icons/css/weather-icons.css"/&gt;
+  &lt;script type="text/javascript" src="bower_components/angular/angular.js">&lt;/script&gt;
+  &lt;script type="text/javascript" src="bower_components/angular-sanitize/angular-sanitize.js"&gt;&lt;/script&gt;
+  &lt;script type="text/javascript" src="bower_components/moment/moment.js"&gt;&lt;/script&gt;
+  &lt;script type="text/javascript" src="javascripts/angular-weather-directive.min.js"&gt;&lt;/script&gt;
+  &lt;script type="text/javascript"&gt;
+    angular.module('myApp', ["weatherModule", "ngSanitize"]);
+  &lt;/script&gt;
+</code></pre>
+</p>
+
+<p>Use the directive:</p>
+
+
+<div>
+  <h1>Chicago, IL</h1>
+  <todays-weather
+    location="Chicago, IL"
+    custom-size="100"
+    use-google-images="true">
+  </todays-weather>
+  <pre><code>&lt;todays-weather
+  location="Chicago, IL"
+  custom-size="100"
+  use-google-images="true"&gt;
+&lt;/todays-weather&gt;</code></pre>
+  <h1>Oak Park, IL</h1>
+  <todays-weather
+    location="Oak Park, IL">
+  </todays-weather>
+  <h1>San Diego, CA</h1>
+  <todays-weather
+    location="San Diego, CA"
+    custom-size="100">
+  </todays-weather>
+  <h1>London, UK</h1>
+  <weather-forecast
+    location="London, UK">
+  </weather-forecast>
+  <pre><code>&lt;weather-forecast
+  location="London, UK"&gt;
+&lt;/weather-forecast&gt;</code></pre>
+</div>
+
+
 
 <h3>
 <a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
 
 <p>2014, Shaun Husain <a href="https://github.com/shusain" class="user-mention">@shusain</a></p>
+
+
+<p>Optional weather images pulled from Google servers used for the Weather API</p>
+
+<p>The date display is currently dependent on <a href="http://momentjs.com/">Moment.js</a></p>
 
 <h3>
 <a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
@@ -64,35 +133,7 @@
 
 
     </div>
-    <div class="container">
-    <h1>Chicago, IL</h1>
-    <todays-weather
-      location="Chicago, IL"
-      custom-size="100"
-      use-google-images="true">
-    </todays-weather>
-    <pre>&lt;todays-weather
-  location="Chicago, IL"
-  custom-size="100"
-  use-google-images="true"&gt;
-&lt;/todays-weather&gt;</pre>
-    <h1>Oak Park, IL</h1>
-    <todays-weather
-      location="Oak Park, IL">
-    </todays-weather>
-    <h1>San Diego, CA</h1>
-    <todays-weather
-      location="San Diego, CA"
-      custom-size="100">
-    </todays-weather>
-    <h1>London, UK</h1>
-    <weather-forecast
-      location="London, UK">
-    </weather-forecast>
-    <pre>&lt;weather-forecast
-  location="London, UK"&gt;
-&lt;/weather-forecast&gt;</pre>
-  </div>
+    
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
