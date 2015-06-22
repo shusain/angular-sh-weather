@@ -1,0 +1,29 @@
+<div class="row" style="border-top:1px solid #eee">
+    <div class="col-xs-6">
+      <div class="row" ng-repeat="weather in forecast.list | limitTo:5" style="border-bottom:1px solid #eee;border-right:1px solid #eee">
+        <div class="col-xs-12">
+          <h6 ng-bind-html="(findIndex(weather)+1)|daysInTheFuture"></h6>
+          <weather-display
+                  weather="weather"
+                  custom-size="customSize"
+                  use-google-images="useGoogleImages"
+                  units="units">
+          </weather-display>  
+        </div>
+      </div>
+    </div>
+
+    <div class="col-xs-6">
+      <div class="row" ng-repeat="weather in forecast.list | limitTo:-5" style="border-bottom:1px solid #eee">
+        <div class="col-xs-12">
+          <h6 ng-bind-html="(findIndex(weather)+1)|daysInTheFuture"></h6>
+          <weather-display
+                  weather="weather"
+                  custom-size="customSize"
+                  use-google-images="useGoogleImages"
+                  units="units">
+          </weather-display>    
+        </div>
+      </div>
+    </div>
+</div>

@@ -1,0 +1,31 @@
+{
+  "name": "angular-sh-weather-testbed",
+  "version": "0.0.1",
+  "homepage": "https://github.com/shusain/angular-sh-weather",
+  "authors": [
+    "Shaun Husain <shaun@intellectual-tech.com>"
+  ],
+  "description": "Testbed for angular weather",
+  "main": "index.html",
+  "keywords": [
+    "Angular",
+    "Weather",
+    "Test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-sanitize": "~1.2.17",
+    "angular": "~1.2.17",
+    "bootstrap": "~3.1.1",
+    "moment": "~2.6.0",
+    "weather-icons": "~0.0.1",
+    "angular-sh-weather": "https://github.com/shusain/angular-sh-weather.git#0.0.1"
+  }
+}

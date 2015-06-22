@@ -1,0 +1,60 @@
+{
+  "name": "angular-weather-directive",
+  "version": "0.0.1",
+  "description": "Weather directive using AngularJS, Open Weather Maps and weather-icons.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shusain/angular-weather-directive"
+  },
+  "keywords": [
+    "Angular",
+    "Weather",
+    "Directive",
+    "Forecast"
+  ],
+  "author": "Shaun Husain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shusain/angular-weather-directive/issues"
+  },
+  "homepage": "https://github.com/shusain/angular-weather-directive",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-bower-install": "^1.6.0",
+    "grunt-concurrent": "^2.0.0",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-coffee": "~0.10.1",
+    "grunt-contrib-compass": "~0.7.2",
+    "grunt-contrib-compress": "~0.8.0",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-csslint": "~0.2.0",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-handlebars": "~0.8.0",
+    "grunt-contrib-htmlmin": "~0.2.0",
+    "grunt-contrib-imagemin": "~0.7.0",
+    "grunt-contrib-jade": "~0.11.0",
+    "grunt-contrib-jasmine": "~0.6.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-jst": "~0.6.0",
+    "grunt-contrib-less": "~0.11.1",
+    "grunt-contrib-nodeunit": "~0.3.3",
+    "grunt-contrib-qunit": "~0.4.0",
+    "grunt-contrib-requirejs": "~0.4.4",
+    "grunt-contrib-sass": "~0.7.3",
+    "grunt-contrib-stylus": "~0.15.1",
+    "grunt-contrib-symlink": "~0.3.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-yuidoc": "~0.5.2",
+    "grunt-html2js": "~0.2.7",
+    "grunt-ng-annotate": "^1.0.1",
+    "load-grunt-tasks": "^3.2.0"
+  },
+  "dependencies": {}
+}

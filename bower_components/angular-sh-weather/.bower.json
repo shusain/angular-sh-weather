@@ -1,0 +1,42 @@
+{
+  "name": "angular-weather-directive",
+  "version": "0.0.1",
+  "authors": [
+    "Shaun Husain <shaun.husain@gmail.com>"
+  ],
+  "description": "Simple directive for displaying the weather forecast using openweathermap.org data and weather-icons from Erik Flowers.",
+  "main": "weatherDirective.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "directive",
+    "weather"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.intellectual-tech.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.17",
+    "weather-icons": "~0.0.1"
+  },
+  "devDependencies": {
+    "moment": "~2.6.0",
+    "angular-sanitize": "~1.2.17",
+    "bootstrap": "~3.1.1"
+  },
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "c37cd7b184b2b820d408dc3462aa36eef447bc98"
+  },
+  "_source": "https://github.com/shusain/angular-sh-weather.git",
+  "_target": "0.0.1",
+  "_originalSource": "https://github.com/shusain/angular-sh-weather.git"
+}
