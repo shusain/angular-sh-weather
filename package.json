@@ -1,6 +1,6 @@
 {
   "name": "angular-weather-directive",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Weather directive using AngularJS, Open Weather Maps and weather-icons.",
   "main": "Gruntfile.js",
   "scripts": {
