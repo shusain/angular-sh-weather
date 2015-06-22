@@ -26,6 +26,6 @@
     "bootstrap": "~3.1.1",
     "moment": "~2.6.0",
     "weather-icons": "~0.0.1",
-    "angular-sh-weather": "https://github.com/shusain/angular-sh-weather.git#0.0.1"
+    "angular-sh-weather": "https://github.com/shusain/angular-sh-weather.git#0.0.2"
   }
 }

@@ -108,6 +108,7 @@ module.exports = function(grunt) {
     },
     html2js: {
       options: {
+        base:'app/',
         // custom options, see below
         module:"weather-templates"
       },

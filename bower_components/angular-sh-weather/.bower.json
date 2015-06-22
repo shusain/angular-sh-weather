@@ -1,6 +1,6 @@
 {
   "name": "angular-weather-directive",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Shaun Husain <shaun.husain@gmail.com>"
   ],
@@ -30,13 +30,13 @@
     "angular-sanitize": "~1.2.17",
     "bootstrap": "~3.1.1"
   },
-  "_release": "0.0.1",
+  "_release": "0.0.2",
   "_resolution": {
     "type": "version",
-    "tag": "v0.0.1",
-    "commit": "c37cd7b184b2b820d408dc3462aa36eef447bc98"
+    "tag": "v0.0.2",
+    "commit": "27a9af95b2525725a899ee4f33484dee71e12cb5"
   },
   "_source": "https://github.com/shusain/angular-sh-weather.git",
-  "_target": "0.0.1",
+  "_target": "0.0.2",
   "_originalSource": "https://github.com/shusain/angular-sh-weather.git"
 }
