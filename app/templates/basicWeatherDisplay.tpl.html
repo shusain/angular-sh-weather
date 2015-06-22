@@ -1,0 +1,37 @@
+<div class="row">
+  <div class="col-xs-12">
+    
+    <weather-icon-google
+      cloudiness="{{ weather.clouds }}"
+      custom-size="customSize"
+      ng-if="useGoogleImages">
+    </weather-icon-google>
+
+    <weather-icon
+      cloudiness="{{ weather.clouds }}"
+      custom-size="customSize"
+      ng-if="!useGoogleImages">
+    </weather-icon>
+    
+    <span style="display:inline-block; vertical-align:middle">
+      <h3 ng-show="weather.temp.current">
+        Current: <span ng-bind-html="weather.temp.current | temp:2:units"></span>
+      </h3>
+      
+      min: <span ng-bind-html="weather.temp.min | temp:0:units"></span><br/>
+      max: <span ng-bind-html="weather.temp.max | temp:0:units"></span><br/>
+
+      <span ng-show="weather.rain">
+        <h6>
+          {{weather.rain}}% Chance of rain
+        </h6>
+      </span>
+
+      <span ng-hide="weather.rain">
+        <h6>
+          No rain expected.
+        </h6>
+      </span>
+    </span>
+  </div>
+</div>

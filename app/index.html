@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Example of Weather Directive Usage</title>
+  <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.css"/>
+  <link rel="stylesheet" type="text/css" href="bower_components/weather-icons/css/weather-icons.css"/>
+  <script type="text/javascript" src="bower_components/angular/angular.js"></script>
+  <script type="text/javascript" src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+  <script type="text/javascript" src="bower_components/moment/moment.js"></script>
+  <script type="text/javascript" src="angular-weather-directive.js"></script>
+  <script type="text/javascript">
+  /**
+  * myApp Module
+  *
+  * Description
+  */
+  angular.module('myApp', ["weatherModule", "ngSanitize"]);
+  </script>
+</head>
+<body ng-app="myApp">
+  <div class="container">
+    <h1>Chicago, IL</h1>
+    <todays-weather
+      location="Chicago,IL"
+      custom-size="100"
+      use-google-images="true">
+    </todays-weather>
+    <pre>&lt;todays-weather
+  location="Chicago, IL"
+  custom-size="100"
+  use-google-images="true"&gt;
+&lt;/todays-weather&gt;</pre>
+    <h1>Oak Park, IL</h1>
+    <todays-weather
+      location="Oak Park, IL">
+    </todays-weather>
+    <h1>San Diego, CA</h1>
+    <todays-weather
+      location="San Diego, CA"
+      custom-size="100">
+    </todays-weather>
+    <h1>London, UK</h1>
+    <weather-forecast
+      location="London, UK"
+      units="metric">
+    </weather-forecast>
+    <pre>&lt;weather-forecast
+  location="London, UK"
+  units="metric"&gt;
+&lt;/weather-forecast&gt;</pre>
+  </div>
+</body>
+</html>
