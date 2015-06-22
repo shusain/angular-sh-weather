@@ -2,7 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cdde7c9-b898-4533-96db-a7b14fc9cf28" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.gzip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular/.bower.json" afterPath="$PROJECT_DIR$/bower_components/angular/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/.bower.json" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/bootstrap/.bower.json" afterPath="$PROJECT_DIR$/bower_components/bootstrap/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/.bower.json" afterPath="$PROJECT_DIR$/bower_components/jquery/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/moment/.bower.json" afterPath="$PROJECT_DIR$/bower_components/moment/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/weather-icons/.bower.json" afterPath="$PROJECT_DIR$/bower_components/weather-icons/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/data/Data.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data/Data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular/README.md" afterPath="$PROJECT_DIR$/bower_components/angular/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/README.md" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/effects/Tween.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects/Tween.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/css/addGetHookIf.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/addGetHookIf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/ajax.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.js" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.min.js.map" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.min.js" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sh-weather/dist/angular-weather-directive.min.js" afterPath="$PROJECT_DIR$/bower_components/angular-sh-weather/dist/angular-weather-directive.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular/angular.js" afterPath="$PROJECT_DIR$/bower_components/angular/angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular/angular.min.js.map" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular/angular.min.js" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/attributes/attr.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/attr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular/bower.json" afterPath="$PROJECT_DIR$/bower_components/angular/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/bower.json" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/bower.json" afterPath="$PROJECT_DIR$/bower_components/jquery/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/attributes/classes.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/classes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/core.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/css.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/css/curCSS.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/curCSS.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/data.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/css/defaultDisplay.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/defaultDisplay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/deferred.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/deferred.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/dimensions.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/dimensions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/effects.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/event.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/css/var/getStyles.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/getStyles.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/exports/global.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/exports/global.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/core/init.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/intro.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/intro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.js" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/jquery.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.js" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.map" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/manipulation.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/offset.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/offset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/attributes/prop.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/prop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/queue.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/queue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/core/ready.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/ready.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.min.map" afterPath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.min.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/attributes/support.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/support.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/css/support.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/support.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/support.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/support.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/traversing.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/attributes/val.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/val.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/wrap.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/wrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/ajax/xhr.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/xhr.js" />
     </list>
     <ignored path="angular-sh-weather.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,38 +88,9 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27554536" vertical-offset="1035" max-vertical-offset="2355">
-              <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.120551094" vertical-offset="1035" max-vertical-offset="2355">
+              <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="angular-weather-directive.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/angular-sh-weather/dist/angular-weather-directive.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3045">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1435008078000" expanded="true" signature="4631:4692" placeholder="..." />
-                <marker date="1435008078000" expanded="true" signature="5474:5520" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="angular-weather-directive.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/angular-sh-weather/dist/angular-weather-directive.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-              <caret line="1" column="4824" selection-start-line="1" selection-start-column="4824" selection-end-line="1" selection-end-column="4824" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1435008372151" expanded="true" signature="3812:3855" placeholder="..." />
-                <marker date="1435008372151" expanded="true" signature="4929:4954" placeholder="..." />
-                <marker date="1435008372151" expanded="true" signature="5065:5121" placeholder="..." />
-                <marker date="1435008372151" expanded="true" signature="5615:5643" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -69,7 +98,7 @@
       <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bower.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="555">
+            <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="555">
               <caret line="28" column="76" selection-start-line="28" selection-start-column="76" selection-end-line="28" selection-end-column="76" />
               <folding />
             </state>
@@ -79,7 +108,7 @@
       <file leaf-file-name=".bower.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bower_components/angular-sh-weather/.bower.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25" vertical-offset="465" max-vertical-offset="705">
+            <state vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="705">
               <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
               <folding />
             </state>
@@ -132,7 +161,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -152,91 +181,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-sh-weather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-sh-weather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-sh-weather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-sh-weather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tmp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-sh-weather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-sh-weather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-sh-weather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-sh-weather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-sh-weather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-sh-weather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-sh-weather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-sh-weather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <PATH_ELEMENT USER_OBJECT="angular-sh-weather">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -265,6 +230,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <list size="0" />
@@ -283,24 +254,24 @@
     <frame x="1919" y="27" width="1922" height="1054" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2518637" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -326,18 +297,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bower_components/angular-sh-weather/.bower.json">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="465" max-vertical-offset="705">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="555">
-          <caret line="28" column="76" selection-start-line="28" selection-start-column="76" selection-end-line="28" selection-end-column="76" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2355">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -347,33 +310,142 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3045">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1435008078000" expanded="true" signature="4631:4692" placeholder="..." />
-            <marker date="1435008078000" expanded="true" signature="5474:5520" placeholder="..." />
+            <marker date="1435008078000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435008078000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/angular-sh-weather/dist/angular-weather-directive.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
           <caret line="1" column="4824" selection-start-line="1" selection-start-column="4824" selection-end-line="1" selection-end-column="4824" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1435008372151" expanded="true" signature="3812:3855" placeholder="..." />
-            <marker date="1435008372151" expanded="true" signature="4929:4954" placeholder="..." />
-            <marker date="1435008372151" expanded="true" signature="5065:5121" placeholder="..." />
-            <marker date="1435008372151" expanded="true" signature="5615:5643" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="555">
+          <caret line="28" column="76" selection-start-line="28" selection-start-column="76" selection-end-line="28" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/angular-sh-weather/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="705">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2355">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/angular-sh-weather/dist/angular-weather-directive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3045">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1435008078000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435008078000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/angular-sh-weather/dist/angular-weather-directive.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
+          <caret line="1" column="4824" selection-start-line="1" selection-start-column="4824" selection-end-line="1" selection-end-column="4824" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="555">
+          <caret line="28" column="76" selection-start-line="28" selection-start-column="76" selection-end-line="28" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/angular-sh-weather/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="705">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/angular-sh-weather/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="705">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="555">
+          <caret line="28" column="76" selection-start-line="28" selection-start-column="76" selection-end-line="28" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/angular-sh-weather/dist/angular-weather-directive.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.016759777" vertical-offset="0" max-vertical-offset="895">
+          <caret line="1" column="4824" selection-start-line="1" selection-start-column="4824" selection-end-line="1" selection-end-column="4824" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/angular-sh-weather/dist/angular-weather-directive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3045">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1435008078000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435008078000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27554536" vertical-offset="1035" max-vertical-offset="2355">
-          <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.120551094" vertical-offset="1035" max-vertical-offset="2355">
+          <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

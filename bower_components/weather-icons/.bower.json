@@ -10,6 +10,5 @@
   },
   "_source": "git://github.com/erikflowers/weather-icons.git",
   "_target": "~0.0.1",
-  "_originalSource": "weather-icons",
-  "_direct": true
+  "_originalSource": "weather-icons"
 }
