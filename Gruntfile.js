@@ -16,7 +16,7 @@ module.exports = function(grunt) {
         separator: ';'
       },
       dist: {
-        src: ['src/**/*.js', 'tmp/templates.js'],
+        src: ['app/*.js', 'tmp/templates.js'],
         dest: 'dist/<%= pkg.name %>.js'
       }
     },
@@ -46,8 +46,8 @@ module.exports = function(grunt) {
     copy: {
       dist: {
         expand:true,
-        cwd:'src/',
-        src:'*.html',
+        cwd:'app/',
+        src:'*.{html,js,css,eot,svg,ttf,woff}',
         dest: 'dist/'
       },
       styles: {
@@ -91,7 +91,7 @@ module.exports = function(grunt) {
       }
     },
     jshint: {
-      files: ['Gruntfile.js', 'src/**/*.js', 'test/**/*.js'],
+      files: ['Gruntfile.js', 'src/**/*.js'],
       options: {
         // options here to override JSHint defaults
         globals: {
@@ -112,7 +112,7 @@ module.exports = function(grunt) {
         module:"weather-templates"
       },
       main: {
-        src: ['src/**/*.tpl.html'],
+        src: ['app/**/*.tpl.html'],
         dest: 'tmp/templates.js'
       },
     },
@@ -152,12 +152,18 @@ module.exports = function(grunt) {
         'copy:styles',
         'imagemin'
       ]
+    },
+    ngAnnotate:{
+      dist:{
+        files:[{
+          src:'<%= concat.dist.dest %>',
+          expand:true
+        }]
+      }
     }
   });
 
   grunt.registerTask('test', ['jshint']);
-
-  grunt.registerTask('default', ['jshint', 'html2js', 'concat', 'ngmin', 'uglify', 'copy']);
 
   grunt.registerTask('serve', function (target) {
     if (target === 'dist') {
@@ -173,5 +179,7 @@ module.exports = function(grunt) {
       'watch'
     ]);
   });
+
+  grunt.registerTask('default', ['jshint', 'html2js', 'concat', 'ngAnnotate:dist', 'uglify', 'copy']);
 
 };
